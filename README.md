@@ -7,6 +7,17 @@ In my world, the fusion of technology and the awe-inspiring beauty of the univer
 
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/aswinayyolath)
 
+### Latest Blog Posts
+
+| Date          | Title |
+|:--------------|:------|
+| Jul 14th, 2024 | [Installing Your Own CA Certificates and Private Keys for IBM Event Streams](https://aswin6303.medium.com/part-4-installing-your-own-ca-certificates-and-private-keys-for-ibm-event-streams-2de81293859a) |
+| Jul 13th, 2024 | [Understanding Schemas and Schema Registry in Event Streams](https://aswin6303.medium.com/understanding-schemas-and-schema-registry-in-event-streams-73011d19eb38) |
+| Jul 7th, 2024 | [Installing IBM Event Streams and Exploring Its Features](https://aswin6303.medium.com/part-2-installing-ibm-event-streams-and-exploring-its-features-03e379433480) |
+| Jul 6th, 2024 | [Introduction to IBM Event Streams and Kafka](https://aswin6303.medium.com/part-1-introduction-to-ibm-event-streams-and-kafka-e919a761ad3f) |
+| Apr 4th, 2021 | [How to use Django Markdownx](https://aswin6303.medium.com/how-to-use-django-markdownx-a0fa00cb253) |
+| Feb 11th, 2021 | [Exploring Stack Overflow public dataset in BigQuery](https://www.linkedin.com/pulse/exploring-stack-overflow-public-dataset-bigquery-aswin-a/) |
+
 ## 🔧 Technologies & Tools
 
 - **Cloud Platforms:** [![Google Cloud Platform](https://img.shields.io/badge/Google_Cloud_Platform-blue?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
