@@ -7,7 +7,7 @@ In my world, the fusion of technology and the awe-inspiring beauty of the univer
 
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/aswinayyolath)
 
-### Latest Blog Posts
+## 📚 Blogs Posts
 
 | Date          | Title |
 |:--------------|:------|
@@ -91,10 +91,6 @@ Here are some of the projects I've worked on:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aswin-a-133a4b13a/) [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-orange?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15631482/aswin-a) [![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white)](https://aswin6303.medium.com/)
 
-## 📚 Blogs Posts
-
-- [How to use Django Markdownx](https://aswin6303.medium.com/how-to-use-django-markdownx-a0fa00cb253)
-- [Exploring Stack Overflow public dataset in BigQuery](https://www.linkedin.com/pulse/exploring-stack-overflow-public-dataset-bigquery-aswin-a/)
 
 ## 📊 GitHub Stats
 
