@@ -19,6 +19,14 @@ In my world, the fusion of technology and the awe-inspiring beauty of the univer
 | Apr 4th, 2021 | [How to use Django Markdownx](https://aswin6303.medium.com/how-to-use-django-markdownx-a0fa00cb253) |
 | Feb 11th, 2021 | [Exploring Stack Overflow public dataset in BigQuery](https://www.linkedin.com/pulse/exploring-stack-overflow-public-dataset-bigquery-aswin-a/) |
 
+## ![YouTube](https://img.shields.io/badge/YouTube-red?style=flat&logo=YouTube&logoColor=white&link) Videos
+
+
+| Date          | Title |
+|:--------------|:------|
+| Feb 6th, 2025  | [Strimzi Kafka Stretch Cluster Prototype: Building Resilient Kafka Across Data Centers](https://www.youtube.com/watch?v=NEPgtXD6voA) |
+
+
 ## 🔧 Technologies & Tools
 
 - **Cloud Platforms:** [![Google Cloud Platform](https://img.shields.io/badge/Google_Cloud_Platform-blue?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
