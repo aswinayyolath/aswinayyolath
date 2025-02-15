@@ -1,3 +1,5 @@
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aswin-a-133a4b13a/) [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-gray?style=for-the-badge&logo=stack-overflow&logoColor=orange)](https://stackoverflow.com/users/15631482/aswin-a) [![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white)](https://aswin6303.medium.com/) [![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@aswina5190/videos)
+
 # Hi there! 👋 I'm Aswin A
 
 **Welcome to my GitHub profile!**  
@@ -99,10 +101,6 @@ Here are some of the projects I've worked on:
 - **📝 Articles:** I write articles on [Medium](https://aswin6303.medium.com/)
 - **💬 Ask Me About:** Kubernetes, OpenShift
 - **📫 How to Reach Me:** Email: [aswin6303@gmail.com](mailto:aswin6303@gmail.com)
-
-## Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aswin-a-133a4b13a/) [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-orange?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15631482/aswin-a) [![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white)](https://aswin6303.medium.com/)
 
 
 ## 📊 GitHub Stats
