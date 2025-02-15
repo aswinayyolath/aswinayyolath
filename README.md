@@ -5,9 +5,9 @@ I'm *Aswin A*, a passionate *Software Engineer* currently shaping the future at 
 
 In my world, the fusion of technology and the awe-inspiring beauty of the universe is where the magic happens. I firmly believe that by harnessing the power of technology and combining it with our inherent sense of wonder and curiosity, we can embark on a journey to create remarkable innovations that will propel humanity to new heights.
 
-<p align="center">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
-</p>
+
 
 
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/aswinayyolath)
