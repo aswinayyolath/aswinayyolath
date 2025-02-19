@@ -98,11 +98,28 @@ Here are some of the projects I've worked on:
 
 ## Other Details
 
-- **🔭 Currently Working On:** Kubernetes, Java, Go
-- **🌱 Currently Learning:** Rust, Java, Go
-- **📝 Articles:** I write articles on [Medium](https://aswin6303.medium.com/)
-- **💬 Ask Me About:** Kubernetes, OpenShift
-- **📫 How to Reach Me:** Email: [aswin6303@gmail.com](mailto:aswin6303@gmail.com)
+```yaml
+apiVersion: v1
+kind: StaffEngineer
+metadata:
+    name: Aswin A
+    namespace: IBM, Event Streams & Kafka
+    labels:
+        cncf/contributor: true
+        kubernetes/enthusiast: true
+        opensource/enthusiast: true
+        programming-languages: Java, Go, Rust, Python
+    annotations:
+        research: AI for Network Intrusion Detection
+        interests: Kubernetes, OpenShift, Kafka, Multi-Cluster Deployments
+        blogging: Medium
+        speaking: Kafka Summit
+spec:
+    replicas: 1
+    containers:
+    - image: aswin6303/latest
+
+```
 
 
 ## 📊 GitHub Stats
