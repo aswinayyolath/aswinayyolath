@@ -93,6 +93,8 @@ Here are some of the projects I've worked on:
 1. **BigQuery-Scripts**
    - This Bash script facilitates the management of Google BigQuery datasets and tables, offering options to create, delete, and list datasets, as well as create or delete tables. The user interacts through a simple command-line menu for intuitive execution of BigQuery operations.
    - **Technologies**: bash.
+2. Network Intrusion detection using Artificial Intelligence
+3. Pod watch ....
 
 ## Other Details
 
