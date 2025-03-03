@@ -1,9 +1,13 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aswin-a-133a4b13a/) [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-gray?style=for-the-badge&logo=stack-overflow&logoColor=orange)](https://stackoverflow.com/users/15631482/aswin-a) [![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white)](https://aswin6303.medium.com/) [![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@aswina5190/videos) [![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)](https://tinyurl.com/4afwtbdc) [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/aswin6303)
 
-# Hi there! 👋 I'm Aswin A
+<div align="center">
+
+  <h1 style="color: #ffcc00; font-size: 2.5em;">✨ Aswin A ✨</h1>
+</div> 
 
 **Welcome to my GitHub profile!**  
-I'm *Aswin A*, a passionate *Software Engineer* currently shaping the future at **IBM**. Beyond my professional endeavors in technology, my love for the wonders of science and the universe is an integral part of who I am 🪐💫.
+
+I'm a passionate **Software Engineer** currently shaping the future at **IBM**. Beyond my professional endeavors in technology, my love for the wonders of science and the universe is an integral part of who I am 🪐💫.
 
 In my world, the fusion of technology and the awe-inspiring beauty of the universe 🌎 is where the magic happens. I firmly believe that by harnessing the power of technology and combining it with our inherent sense of wonder and curiosity, we can embark on a journey to create remarkable innovations that will propel humanity to new heights.
 
