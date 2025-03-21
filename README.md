@@ -1,4 +1,12 @@
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aswin-a-133a4b13a/) [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-gray?style=for-the-badge&logo=stack-overflow&logoColor=orange)](https://stackoverflow.com/users/15631482/aswin-a) [![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white)](https://aswin6303.medium.com/) [![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@aswina5190/videos) [![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)](https://tinyurl.com/4afwtbdc) [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/aswin6303)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aswin-a-133a4b13a/)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-gray?style=for-the-badge&logo=stack-overflow&logoColor=orange)](https://stackoverflow.com/users/15631482/aswin-a) 
+[![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white)](https://aswin6303.medium.com/) 
+[![sessionize](https://img.shields.io/badge/-sessionize-2EC866?style=for-the-badge&logo=sessionize&logoColor=white)](https://sessionize.com/aswin-a)
+[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@aswina5190/videos) 
+[![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)](https://tinyurl.com/4afwtbdc) 
+[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/aswin6303)
+
+
 
 <div align="center">
 
