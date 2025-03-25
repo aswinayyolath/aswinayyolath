@@ -23,7 +23,7 @@ In my world, the fusion of technology and the awe-inspiring beauty of the univer
   <img src="https://readme-typing-svg.demolab.com/?lines=Passionate%20Software%20Engineer;Exploring%20Kafka%20and%20Streaming%20Technologies;Driven%20by%20Curiosity%20and%20Innovation;Technology%20%2B%20Wonder%20=%20Infinite%20Possibilities;Coding%20is%20like%20Poetry%20in%20Motion&font=Fira%20Code&center=true&width=700&height=45&color=0bd1d1&vCenter=true&pause=1000&size=25" />
 </p>
 
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/aswinayyolath)
+![](https://komarev.com/ghpvc/?username=aswinayyolath&color=ff69b4)
 
 ## 📚 Blogs Posts
 
