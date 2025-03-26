@@ -20,7 +20,7 @@ I'm a passionate **Software Engineer** currently shaping the future at **IBM**. 
 In my world, the fusion of technology and the awe-inspiring beauty of the universe 🌎 is where the magic happens. I firmly believe that by harnessing the power of technology and combining it with our inherent sense of wonder and curiosity, we can embark on a journey to create remarkable innovations that will propel humanity to new heights.
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Passionate%20Software%20Engineer;Exploring%20Kafka%20and%20Streaming%20Technologies;Driven%20by%20Curiosity%20and%20Innovation;Technology%20%2B%20Wonder%20=%20Infinite%20Possibilities;Coding%20is%20like%20Poetry%20in%20Motion&font=Fira%20Code&center=true&width=700&height=45&color=0bd1d1&vCenter=true&pause=1000&size=25" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Passionate%20Software%20Engineer;Exploring%20Kafka%20and%20Streaming%20Technologies%20🌊🐿️;Driven%20by%20Curiosity%20and%20Innovation;Technology%20%2B%20Wonder%20=%20Infinite%20Possibilities;Coding%20is%20like%20Poetry%20in%20Motion&font=Fira%20Code&center=true&width=700&height=45&color=0bd1d1&vCenter=true&pause=1000&size=25" />
 </p>
 
 ![](https://komarev.com/ghpvc/?username=aswinayyolath&color=ff69b4)
