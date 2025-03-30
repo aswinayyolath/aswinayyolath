@@ -29,6 +29,7 @@ In my world, the fusion of technology and the awe-inspiring beauty of the univer
 
 | Date          | Title |
 |:--------------|:------|
+| Mar 30th, 2025  | [Ever Felt Like Kafka Could Do More? Let’s Talk Queues!](https://aswin6303.medium.com/ever-felt-like-kafka-could-do-more-lets-talk-queues-0fc6ce1d5c07) |
 | Oct 1st, 2024  | [Accessing and Remediating CVEs: A Critical Guide](https://aswin6303.medium.com/accessing-and-remediating-cves-a-critical-guide-7f8712a4d167) |
 | Jul 14th, 2024 | [Installing Your Own CA Certificates and Private Keys for IBM Event Streams](https://aswin6303.medium.com/part-4-installing-your-own-ca-certificates-and-private-keys-for-ibm-event-streams-2de81293859a) |
 | Jul 13th, 2024 | [Understanding Schemas and Schema Registry in Event Streams](https://aswin6303.medium.com/understanding-schemas-and-schema-registry-in-event-streams-73011d19eb38) |
