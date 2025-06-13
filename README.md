@@ -46,6 +46,11 @@ In my world, the fusion of technology and the awe-inspiring beauty of the univer
 | Feb 6th, 2025  | [Strimzi Kafka Stretch Cluster Prototype: Building Resilient Kafka Across Data Centers](https://www.youtube.com/watch?v=NEPgtXD6voA) |
 
 
+| Date          | Latest talks |
+|:--------------|:------|
+| June 4th, 2025  | [Stretching Strimzi: Exploring Multi-Cluster Kafka for High Availability](https://www.youtube.com/watch?v=LAFxaReln9M&list=PLj6h78yzYM2M0IqOwuUrrWdrudvTWV_wG) |
+
+
 ## 🔧 Technologies & Tools
 
 - **Cloud Platforms:** [![Google Cloud Platform](https://img.shields.io/badge/Google_Cloud_Platform-blue?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
